@@ -2,5 +2,5 @@
 A small LED controller via LPT-port<br>
 VS2010 project
 
-# Information
+#### Information
 Uses Data-out ports
